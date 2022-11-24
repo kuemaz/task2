@@ -1,0 +1,22 @@
+.navBar{
+    display: flex;
+    background-color: aquamarine;
+}
+.listLinks{
+    display: flex;
+    list-style-type: none;
+    
+}
+li{
+    margin: 0 1rem;
+    display: inline;
+    float: left;
+}
+li a {
+    
+    text-align: center;
+    padding: 14px 16px;
+    color: dimgray;
+    font-weight: bolder;
+    text-decoration: none;
+  }
